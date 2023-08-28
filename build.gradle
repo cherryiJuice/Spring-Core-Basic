@@ -16,6 +16,8 @@ configurations {
 }
 //lombok 설정 추가 끝
 
+
+
 repositories {
     mavenCentral()
 }
